@@ -1,0 +1,8 @@
+{
+  "short_name": "Eli & Dili",
+  "name": "Eli & Dili - AI Companion",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#060610",
+  "background_color": "#060610"
+}
